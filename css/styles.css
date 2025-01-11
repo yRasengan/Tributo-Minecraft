@@ -45,10 +45,12 @@ html {
 .quotes-container {
     text-align: center;
     padding: 8px ;
+    border-bottom: 1px dashed #DDD;
 }
 
 .curiosidades-container {
     padding: 25px;
+    border-bottom: 1px dashed;
 }
 
 .img-bold {
@@ -63,4 +65,12 @@ html {
 
 a:visited {
     color: blue
+}
+
+.about {
+    text-align: center;
+}
+
+.curiosidades {
+    text-align: center;
 }
